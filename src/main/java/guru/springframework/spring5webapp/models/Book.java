@@ -16,6 +16,7 @@ import lombok.*;
 @Setter
 @ToString
 @NoArgsConstructor
+@AllArgsConstructor
 public class Book {
 
 	@Id
